@@ -2,3 +2,5 @@ v3
 historia jgbv
 linea 3
 linea 4
+tengo 40 años
+naci en ecuador
